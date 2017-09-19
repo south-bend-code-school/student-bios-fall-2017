@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  color:red;
+  font-family: sans-serif;
+  text-align: center;
+}
+    #title {
+  background-color: white;
+  color: red;
+
+}
+.text  {
+   font-family:tamho; serif;
+   text-align: center;
+
+}
+
+#title:hover {
+  background-color:green;
+  color:yellow;
+
+}
+.picture {
+  border: 3px solid white;
+
+}
