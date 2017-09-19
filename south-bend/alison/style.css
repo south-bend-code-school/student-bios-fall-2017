@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  color: cyan;
+  text-align: center;
+
+}
+
+div {text-align:center ;
+  background-color:black ;
+padding: 20px;
+margin: 20px;
+
+
+
+}
+
+.a {
+background-color: ;
+}
+.a:hover{
+background-color:darkslategray;
+transition: 1.75s;
+border: 50px solid cyan;
+padding: 20px;
+margin: 20px;
+}
+button{
+font-size: 30px;
+border: 6px solid cyan;
+border-radius:20%
+transition: 1.75s;
+}
+button:hover{
+  border: solid red;
+  font-size: 70pt;
+  transition: 1.75s;
+
+}
+
+
+#b {
+  color: seashell;
+}

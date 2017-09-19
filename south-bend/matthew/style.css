@@ -1,0 +1,79 @@
+body{
+ background-color: indigo;
+ color: PowderBlue;
+font-family: 'Francois One', sans-serif; }
+h1{
+text-align: center;}
+h2{text-align: center;}
+h3{text-align: center;}
+
+
+#green{color: red;}
+
+h2:hover{
+  background-color:blue ;
+}
+h1:hover{
+  background-color:orchid;
+  transition: 3s;}
+
+.glitch:hover{
+  border: 5.5px dotted chartreuse;
+}
+
+button{
+  padding :10px;
+  margin: 10px;
+  background-color: red;
+  font-size: 20px;
+  border-radius: 75%;
+  border: 10px solid lightblue;
+}
+
+#back-img{
+  background-image: url('https://media.giphy.com/media/Qgx8fFTysBHYQ/giphy.gif');
+}
+
+#helpme{
+  height: 35%;
+  width:  35%;
+}
+
+#wakeme{
+  height: 30%;
+  width: 30%;
+}
+
+.simple{
+  text-align: center;
+}
+
+#track{
+  height: 30%;
+  width: 30%;
+}
+
+#running{
+  height: 30%;
+  width: 30%;
+}
+
+#fwomp{
+  height: 40%;
+  width: 40%;
+}
+
+#dedele{
+  height: 50%;
+  width: 50%;
+}
+
+#hat{
+  height: 20%;
+  width: 20%;
+}
+
+#bender{
+  height: 40%;
+  width: 40%;
+}

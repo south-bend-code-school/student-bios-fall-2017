@@ -1,0 +1,80 @@
+h1 {
+  background-color: red;
+  color: White;
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+  border-color: white;
+  border-style: dotted;
+  padding: 5px;
+  transition: 2s;
+}
+
+body {
+background-color: DarkSlateGrey;
+}
+
+div {
+  background-color: DimGrey;
+  color: black;
+  padding: 10px
+
+}
+
+
+div:hover{
+
+}
+#button1{
+  background-color: red;
+  padding: 50px
+}
+
+#button2{
+  background-color: white;
+  padding: 50px
+
+}
+
+
+h1:hover{
+ border-style: dashed;
+ background-color: RoyalBlue;
+
+}
+
+#one{
+  width: 1315px;
+  height: 500px;
+}
+
+#two{
+  width: 1315px;
+  height: 300px;
+}
+
+#three{
+  padding-left: 500px;
+  width: 100px;
+  height: 100px;
+}
+
+#four{
+  padding-left: 500px;
+  width: 100px;
+  height: 100px;
+}
+
+#hobbies{
+  padding-left: 500px;
+  width: 100px;
+  height: 100px;
+}
+
+#values{
+  padding-left: 500px;
+  width: 100px;
+  height: 100px;
+}
+.website{
+  color: Yellow;
+}

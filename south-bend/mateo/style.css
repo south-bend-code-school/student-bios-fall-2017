@@ -1,0 +1,73 @@
+h1 {
+ background-color: coral;
+ color: blueviolet;
+ text-align: center;
+ font-family: 'Exo', sans-serif;
+  }
+body {
+color: crimson;
+text-align: center;
+font-family: 'Bitter', serif;
+}
+.one {
+background-color: yellow;
+transition: 1s;
+margin: 30px;
+}
+.one:hover{
+  background-color: green;
+  font-size: 16px;
+}
+  .two {
+  background-color: mediumslateblue;
+  transition: 1s;
+  margin: 30px;
+}
+.two:hover{
+  background-color: PaleVioletRed;
+  font-size: 16px
+}
+#purple {
+  color: firebrick;
+  border: 4px dashed black;
+  padding: 7px;
+}
+#purple:hover{
+background-color: blue;
+}
+img {
+  width: 250px;
+  height: 200px;
+}
+#button {
+background-color: red;
+color: DeepSkyBlue;
+padding: 7px;
+font-size: 17px;
+margin: 50px;
+border-radius: 20px;
+}
+#button2 {
+background-color: red;
+color: DeepSkyBlue;
+padding: 7px;
+font-size: 17px;
+margin: 50px;
+border-radius: 20px
+}
+#button3 {
+  background-color: red;
+  color: DeepSkyBlue;
+  padding: 7px;
+  font-size: 17px;
+  margin: 50px;
+  border-radius: 20px
+}
+#button4 {
+  background-color: red;
+  color: DeepSkyBlue;
+  padding: 7px;
+  font-size: 17px;
+  margin: 50px;
+  border-radius: 20px
+}

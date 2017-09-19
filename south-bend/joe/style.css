@@ -1,0 +1,59 @@
+body {
+ background-color: blue;
+ color: gold;
+ text-align: center;
+ font-family:  'Abril Fatface', cursive;
+
+}
+
+#Tacobell{
+background-color: red;
+transition: .5s;
+border: 5px dashed yellow;
+
+}
+
+#Tacobell:hover{
+background-color: green;
+border: 10px dotted purple;
+
+}
+.pictures:hover{
+  background-color: green;
+  color: white;
+
+}
+button{
+background-color: red;
+padding: 20px
+
+}
+img{
+width: 200px;
+height: 300px;
+
+
+}
+
+.pictures{
+width: 400px;
+height: 300px;
+
+}
+#bf1{
+height: 400px;
+width: 600px;
+}
+#back{
+  background-image: url('https://d2eawub7utcl6.cloudfront.net/s0/uploads/locations/1019782b67be71318459abdfc67e80198a882.jpg');
+}
+
+#nd{
+height: 400px;
+width: 600px;
+}
+#video{
+height:400px;
+width: 600px;
+
+}

@@ -1,0 +1,19 @@
+body {
+  background-color:red;
+  color:blue;
+  text-align: center;
+  font-family:  'Creepster', cursive;
+
+}
+
+div{
+  background-color: gold;
+  transition: 1s;
+  border: 5px dashed black;
+}
+
+
+.red:hover{
+  background-color: red;
+  color: black;
+}

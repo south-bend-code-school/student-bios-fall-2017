@@ -1,0 +1,27 @@
+body{
+align-content: center;
+background-color:black;
+color:red;
+align-content: center;
+font-family: 'Libre Barcode 39 Text', cursive;
+}
+
+h1:hover{
+color:blue;
+border:dashed 20px white;
+font-size: 50px;
+padding: 70px ;
+margin:390;
+}
+
+button{
+background-color: white;
+color:black;
+padding:70px;
+font-family: 'Libre Barcode 39 Text' , cursive;
+font-size: 24px;
+}
+
+table{
+font-size:24px;
+}
